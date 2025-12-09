@@ -1,0 +1,15 @@
+# Ignore Prometheus binaries
+prometheus-2.52.0.linux-amd64/
+prometheus-2.52.0.linux-amd64.tar.gz
+
+# Ignore Node Exporter binaries
+node_exporter-1.7.0.linux-amd64/
+node_exporter-1.7.0.linux-amd64.tar.gz
+
+# Ignore system temporary files
+*.log
+*.tmp
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
